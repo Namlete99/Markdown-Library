@@ -1,3 +1,3 @@
 # Markdown-Library
 
-Sử dụng Visual Studio Code để thực hành 
+Sử dụng phần mềm Visual Studio Code để thực hành.
